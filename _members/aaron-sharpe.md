@@ -2,7 +2,8 @@
 name: Aaron Sharpe
 image: images/groupmembers/aaron.jpg
 role: pi
-# affiliation: University of Colorado
+title: Principal Investigator
+# affiliation: Stanford University
 aliases:
   - A. Sharpe
   - A Sharpe
