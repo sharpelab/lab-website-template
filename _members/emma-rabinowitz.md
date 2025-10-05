@@ -1,7 +1,6 @@
 ---
 name: Emma Rabinowitz
 title: PhD Student
-description: ""
 image: 
 role: phd
 group: 
