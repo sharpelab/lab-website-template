@@ -10,8 +10,8 @@
 {% assign type = site.data.types[member.role] %}
 
 <div class="portrait-wrapper">
-  {% if member.links.home-page %}
-    <a href="{{ member.links.home-page }}" target="_blank" class="portrait" data-style="{{ include.style }}">
+  {% if member.links["home-page"] %}
+    <a href="{{ member.links["home-page"] }}" target="_blank" class="portrait" data-style="{{ include.style }}">
   {% else %}
     <div class="portrait" data-style="{{ include.style }}">
   {% endif %}
@@ -52,7 +52,7 @@
       </span>
     {% endif %}
 
-  {% if member.links.home-page %}
+  {% if member.links["home-page"] %}
     </a>
   {% else %}
     </div>
