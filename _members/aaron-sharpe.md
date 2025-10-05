@@ -1,7 +1,7 @@
 ---
 name: Aaron Sharpe
 image: images/groupmembers/aaron.jpg
-role: principal-investigator
+role: pi
 # affiliation: University of Colorado
 aliases:
   - A. Sharpe
