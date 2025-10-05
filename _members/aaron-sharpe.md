@@ -8,6 +8,7 @@ aliases:
   - A. Sharpe
   - A Sharpe
 links:
+  email: aaron.sharpe@stanford.edu
   home-page: https://aaronsharpe.science
   google-scholar: 7LPtqEsAAAAJ&hl
   orcid: 0000-0002-4260-8546
