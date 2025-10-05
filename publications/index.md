@@ -11,29 +11,19 @@ nav:
 
 **Linking thermodynamic correlation signatures and superconductivity in twisted trilayer graphene**<br/>
 Jesse C. Hoke, Yifan Li, Yuwen Hu, Julian May-Mann, Kenji Watanabe, Takashi Taniguchi, Trithep Devakul, Aaron Sharpe, Benjamin E. Feldman<br/>
-arXiv:2509.03583<br/>
-[PDF]({{ site.url }}/papers/2509.07977v1.pdf) &nbsp; &nbsp;
-[arXiv](https://arxiv.org/abs/2509.07977) &nbsp; &nbsp;
-
+[arXiv:2509.03583](https://arxiv.org/abs/2509.07977)<br/>
 
 **Topological bands and correlated states in helical trilayer graphene**<br/>
 Li-Qiao Xia\*, Aviram Uri\*, Jiaoji Yan\*, Aaron Sharpe\*, Filippo Gaggioli, Nicole S. Ticea, Julian May-Mann, Kenji Watanabe, Takashi Taniguchi, Liang Fu, Trithep Devakul, Jurgen H. Smet, and Pablo Jarillo-Herrero<br/>
-arXiv:2509.03583<br/>
-[PDF]({{ site.url }}/papers/2509.03583v1.pdf) &nbsp; &nbsp;
-[arXiv](https://arxiv.org/abs/2509.03583) &nbsp; &nbsp;
+[arXiv:2509.03583](https://arxiv.org/abs/2509.03583)<br/>
 
 **Size-restricted magnetotransport in the delafossite metals PdCoO2 and PtCoO2**<br/>
 Michal Moravec, Graham Baker, Maja D. Bachmann, Aaron Sharpe, Nabhanila Nandi, Arthur W. Barnard, Carsten Putzke, Seunghyun Khim, Markus König, David Goldhaber-Gordon, Philip J.W. Moll, Andrew P. Mackenzie<br/>
-arXiv:2503.21858<br/>
-[PDF]({{ site.url }}/papers/2503.21858v1.pdf) &nbsp; &nbsp;
-[arXiv](https://arxiv.org/abs/2503.21858) &nbsp; &nbsp;
-
+[arXiv:2503.21858](https://arxiv.org/abs/2503.21858)<br/>
 
 **Extended Fractional Chern Insulators Near Half Flux in Twisted Bilayer Graphene Above the Magic Angle**<br/>
 Joe Finney\*, Aaron Sharpe\*, Linsey K. Rodenbach, Jian Kang, Xiaoyu Wang, Kenji Watanabe, Takashi Taniguchi, Marc A. Kastner, Oskar Vafek, David Goldhaber-Gordon<br/>
-arXiv:2403.12901<br/>
-[PDF]({{ site.url }}/papers/2503.12819v1.pdf) &nbsp; &nbsp;
-[arXiv](https://arxiv.org/abs/2503.12819) &nbsp; &nbsp;
+[arXiv:2403.12901](https://arxiv.org/abs/2503.12819)<br/>
 
 </div>
 
@@ -157,11 +147,6 @@ Nano Lett. 21, 4299-4304 (2021)<br/>
 
 <div class="year-border" markdown="1">
 ## 2020
-
-**Correlations in moiré heterostructures**<br/>
-Thesis, Stanford University (2020)<br/>
-[PDF]({{ site.url }}/papers/thesis-augmented.pdf) &nbsp; &nbsp;
-[Stanford](https://searchworks.stanford.edu/view/13753843)
 
 **Tunable correlated Chern insulator and ferromagnetism in a moiré superlattice**<br/>
 Guorui Chen, Aaron Sharpe, Eli J. Fox, Ya-Hui Zhang, Shaoxin Wang, Lili Jiang, Bosai Lyu, Hongyuan Li, Kenji Watanabe, Takashi Taniguchi, Zhiwen Shi, T. Senthil, David Goldhaber-Gordon, Yuanbo Zhang, and Feng Wang<br/>
