@@ -13,10 +13,12 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
+{% include list.html data="members" component="portrait" filter="role == 'pi'" link="https://aaronsharpe.science" %}
+{% include list.html data="members" component="portrait" filter="role == 'postdoc'" link="" %}
+{% include list.html data="members" component="portrait" filter="role == 'grad'" link="" %}
+{% include list.html data="members" component="portrait" filter="role == 'undergrad'" link="" %}
 
-{% include section.html background="images/background.jpg" dark=true %}
+<!-- {% include section.html background="images/background.jpg" dark=true %}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
@@ -32,4 +34,4 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% endcapture %}
 
-{% include grid.html style="square" content=content %}
+{% include grid.html style="square" content=content %} -->
