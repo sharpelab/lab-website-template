@@ -17,7 +17,7 @@ Graduate students should apply to the Stanford Physics or Applied Physics PhD pr
 Postdoctoral positions available on all projects.  Postdoc applicants should send their CV to Aaron Sharpe.
 
 # Location
-Our lab is located in the basement of the McCullough building in Room 016.
+Our lab is lucky to share space with the DGG lab which is located in the basement of the McCullough building in Room 016.
 
 Aaron's office is McCullough 220.
 
