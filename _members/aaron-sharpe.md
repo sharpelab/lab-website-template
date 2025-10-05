@@ -1,6 +1,6 @@
 ---
 name: Aaron Sharpe
-image: images/groupmembers/aaron.jpg
+image: images/groupmembers/aaron2.png
 role: pi
 title: Principal Investigator
 # affiliation: Stanford University
