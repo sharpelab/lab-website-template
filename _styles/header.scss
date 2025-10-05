@@ -165,4 +165,9 @@ header[data-big] {
   .subtitle {
     font-size: var(--large);
   }
+
+  nav {
+    margin-top: 20px;
+    display: flex;
+  }
 }

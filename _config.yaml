@@ -1,7 +1,7 @@
 # site properties and page defaults
 title: Sharpe Lab
 # subtitle: by the Sharpe Lab
-description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
+description: Hellow and welcome to the Sharpe Lab website!
 header: images/strain.jpg
 # footer: images/background.jpg
 proofer: false
@@ -29,18 +29,10 @@ defaults:
       type: "members"
     values:
       layout: member
-  # markdown files in /_posts
-  - scope:
-      type: "posts"
-    values:
-      layout: post
 
 collections:
   # generate page for each member
   members:
-    output: true
-  # generate page for each post
-  posts:
     output: true
 
 # jekyll plugins
