@@ -26,7 +26,7 @@ Joe Finney\*, Aaron Sharpe\*, Linsey K. Rodenbach, Jian Kang, Xiaoyu Wang, Kenji
 [arXiv:2403.12819](https://arxiv.org/abs/2403.12819)<br/>
 
 
-<div class="year-border" markdown="1">
+<div class="year-border" markdown="1">\n
 ## 2025
 
 **Automated Tabletop Exfoliation and Identification of Monolayer Graphene Flakes**<br/>
@@ -39,7 +39,7 @@ Li-Qiao Xia\*, Sergio C. de la Barrera\*, Aviram Uri\*, Aaron Sharpe, Yves H. Kw
 </div>
 
 
-<div class="year-border" markdown="1">
+<div class="year-border" markdown="1">\n
 ## 2024
 
 **Deterministic fabrication of graphene hexagonal boron nitride moiré superlattices**<br/>
@@ -56,7 +56,7 @@ Mihir Pendharkar, Steven J. Tran, Gregory Zaborski Jr., Joe Finney, Aaron Sharpe
 </div>
 
 
-<div class="year-border" markdown="1">
+<div class="year-border" markdown="1">\n
 ## 2023
 
 **Magnetic field stabilized Wigner crystal states in a graphene moiré superlattice**<br/>
@@ -69,7 +69,7 @@ Xiaoyu Wang, Joe Finney, Aaron Sharpe, Linsey K. Rodenbach, Connie L. Hsueh, Ken
 </div>
 
 
-<div class="year-border" markdown="1">
+<div class="year-border" markdown="1">\n
 ## 2022
 
 **Stacks on stacks on stacks**<br/>
@@ -90,7 +90,7 @@ Guorui Chen\*, Aaron Sharpe\*, Eli J. Fox\*, Shaoxin Wang, Bosai Lyu, Lili Jiang
 </div>
 
 
-<div class="year-border" markdown="1">
+<div class="year-border" markdown="1">\n
 ## 2021
 
 **Evidence of orbital ferromagnetism in twisted bilayer graphene aligned to hexagonal boron nitride**<br/>
@@ -99,7 +99,7 @@ Aaron Sharpe, Eli J. Fox, Arthur W. Barnard, Joe Finney, Kenji Watanabe, Takashi
 </div>
 
 
-<div class="year-border" markdown="1">
+<div class="year-border" markdown="1">\n
 ## 2020
 
 **Tunable correlated Chern insulator and ferromagnetism in a moiré superlattice**<br/>
@@ -108,7 +108,7 @@ Guorui Chen, Aaron Sharpe, Eli J. Fox, Ya-Hui Zhang, Shaoxin Wang, Lili Jiang, B
 </div>
 
 
-<div class="year-border" markdown="1">
+<div class="year-border" markdown="1">\n
 ## 2019
 
 **Super-geometric electron focusing on the hexagonal Fermi surface of PdCoO2**<br/>
@@ -125,7 +125,7 @@ Guorui Chen\*, Aaron Sharpe\*, Patrick Gallagher, Ilan T. Rosen, Eli J. Fox, Lil
 </div>
 
 
-<div class="year-border" markdown="1">
+<div class="year-border" markdown="1">\n
 ## 2017
 
 **Absorptive pinhole collimators for ballistic Dirac fermions in graphene**<br/>
@@ -134,7 +134,7 @@ Arthur W. Barnard, Alex Hughes, Aaron Sharpe, Kenji Watanabe, Takashi Taniguchi,
 </div>
 
 
-<div class="year-border" markdown="1">
+<div class="year-border" markdown="1">\n
 ## 2012
 
 **Geometry of the Vapor Layer Under a Leidenfrost Drop**<br/>
