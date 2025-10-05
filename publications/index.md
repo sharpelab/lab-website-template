@@ -26,7 +26,6 @@ Joe Finney\*, Aaron Sharpe\*, Linsey K. Rodenbach, Jian Kang, Xiaoyu Wang, Kenji
 [arXiv:2403.12819](https://arxiv.org/abs/2403.12819)<br/>
 
 
-<div class="year-border" markdown="1">\n
 ## 2025
 
 **Automated Tabletop Exfoliation and Identification of Monolayer Graphene Flakes**<br/>
@@ -36,10 +35,8 @@ Elijah Courtney, Mihir Pendharkar, Nathan J. Bittner, Aaron Sharpe, David Goldha
 **Topological bands and correlated states in helical trilayer graphene**<br/>
 Li-Qiao Xia\*, Sergio C. de la Barrera\*, Aviram Uri\*, Aaron Sharpe, Yves H. Kwan, Ziyan Zhu, Kenji Watanabe, Takashi Taniguchi, David Goldhaber-Gordon, Liang Fu, Trithep Devakul, and Pablo Jarillo-Herrero<br/>
 [arXiv:2310.12204](https://arxiv.org/abs/2310.12204) || [Nature Physics 21, 239–244 (2025)](https://www.nature.com/articles/s41567-024-02731-6)<br/>
-</div>
 
 
-<div class="year-border" markdown="1">\n
 ## 2024
 
 **Deterministic fabrication of graphene hexagonal boron nitride moiré superlattices**<br/>
@@ -53,10 +50,9 @@ Steven J. Tran, Jan-Lucas Uslu, Mihir Pendharkar, Joe Finney, Aaron Sharpe, Mari
 **Torsional Force Microscopy of Van der Waals Moirés and Atomic Lattices**<br/>
 Mihir Pendharkar, Steven J. Tran, Gregory Zaborski Jr., Joe Finney, Aaron Sharpe, Rupini V. Kamat, Sandesh S. Kalantre, Marisa Hocking, Nathan J. Bittner, Kenji Watanabe, Takashi Taniguchi, Bede Pittenger, Christina J. Newcomb, Marc A. Kastner, Andrew J. Mannix, David Goldhaber-Gordon<br/>
 [arXiv:2308.08814](https://arxiv.org/abs/2308.08814) || [PNAS 121, e2314083121 (2024)](https://www.pnas.org/doi/abs/10.1073/pnas.2314083121)<br/>
-</div>
 
 
-<div class="year-border" markdown="1">\n
+
 ## 2023
 
 **Magnetic field stabilized Wigner crystal states in a graphene moiré superlattice**<br/>
@@ -66,10 +62,8 @@ Guorui Chen, Ya-Hui Zhang, Aaron Sharpe, Zuocheng Zhang, Shaoxin Wang, Lili Jian
 **Unusual magnetotransport in twisted bilayer graphene from strain-induced open Fermi surfaces**<br/>
 Xiaoyu Wang, Joe Finney, Aaron Sharpe, Linsey K. Rodenbach, Connie L. Hsueh, Kenji Watanabe, Takashi Taniguchi, Marc A. Kastner, Oskar Vafek, and David Goldhaber-Gordon<br/>
 [arXiv:2209.08204](https://arxiv.org/abs/2209.08204) || [PNAS 120, e2307151120 (2023)](https://www.pnas.org/doi/10.1073/pnas.2307151120)<br/>
-</div>
 
 
-<div class="year-border" markdown="1">\n
 ## 2022
 
 **Stacks on stacks on stacks**<br/>
@@ -87,28 +81,22 @@ Joe Finney, Aaron Sharpe, Eli J. Fox, Connie L. Hsueh, Daniel E. Parker, Matthew
 **Tunable ferromagnetism at non-integer filling of a moiré superlattice**<br/>
 Guorui Chen\*, Aaron Sharpe\*, Eli J. Fox\*, Shaoxin Wang, Bosai Lyu, Lili Jiang, Hongyuan Li, Kenji Watanabe, Takashi Taniguchi, Michael F. Crommie, Marc A. Kastner, Zhiwen Shi, David Goldhaber-Gordon, Yuanbo Zhang, and Feng Wang<br/>
 [arXiv:2012.10075](https://arxiv.org/abs/2012.10075) || [Nano Lett. 22, 238–245 (2022)](https://pubs.acs.org/doi/10.1021/acs.nanolett.1c03699)<br/>
-</div>
 
 
-<div class="year-border" markdown="1">\n
 ## 2021
 
 **Evidence of orbital ferromagnetism in twisted bilayer graphene aligned to hexagonal boron nitride**<br/>
 Aaron Sharpe, Eli J. Fox, Arthur W. Barnard, Joe Finney, Kenji Watanabe, Takashi Taniguchi, Marc A. Kastner, and David Goldhaber-Gordon<br/>
 [arXiv:2102.04039](https://arxiv.org/abs/2102.04039) || [Nano Lett. 21, 4299–4304 (2021)](https://pubs.acs.org/doi/full/10.1021/acs.nanolett.1c00696)<br/>
-</div>
 
 
-<div class="year-border" markdown="1">\n
 ## 2020
 
 **Tunable correlated Chern insulator and ferromagnetism in a moiré superlattice**<br/>
 Guorui Chen, Aaron Sharpe, Eli J. Fox, Ya-Hui Zhang, Shaoxin Wang, Lili Jiang, Bosai Lyu, Hongyuan Li, Kenji Watanabe, Takashi Taniguchi, Zhiwen Shi, T. Senthil, David Goldhaber-Gordon, Yuanbo Zhang, and Feng Wang<br/>
 [arXiv:1905.06535](https://arxiv.org/abs/1905.06535) || [Nature 579, 56–61 (2020)](https://www.nature.com/articles/s41586-020-2049-7)<br/>
-</div>
 
 
-<div class="year-border" markdown="1">\n
 ## 2019
 
 **Super-geometric electron focusing on the hexagonal Fermi surface of PdCoO2**<br/>
@@ -122,22 +110,17 @@ Aaron Sharpe\*, Eli J. Fox\*, Arthur W. Barnard, Joe Finney, Kenji Watanabe, Tak
 **Signatures of tunable superconductivity in a trilayer graphene moiré superlattice**<br/>
 Guorui Chen\*, Aaron Sharpe\*, Patrick Gallagher, Ilan T. Rosen, Eli J. Fox, Lili Jiang, Bosai Lyu, Hongyuan Li, Kenji Watanabe, Takashi Taniguchi, Jeil Jung, Zhiwen Shi, David Goldhaber-Gordon, Yuanbo Zhang, and Feng Wang<br/>
 [arXiv:1901.04621](https://arxiv.org/abs/1901.04621) || [Nature 572, 215–219 (2019)](https://www.nature.com/articles/s41586-019-1393-y)<br/>
-</div>
 
 
-<div class="year-border" markdown="1">\n
 ## 2017
 
 **Absorptive pinhole collimators for ballistic Dirac fermions in graphene**<br/>
 Arthur W. Barnard, Alex Hughes, Aaron Sharpe, Kenji Watanabe, Takashi Taniguchi, and David Goldhaber-Gordon<br/>
 [arXiv:1611.05155](https://arxiv.org/abs/1611.05155) || [Nature Communications 8, 15418 (2017)](https://www.nature.com/articles/ncomms15418)<br/>
-</div>
 
 
-<div class="year-border" markdown="1">\n
 ## 2012
 
 **Geometry of the Vapor Layer Under a Leidenfrost Drop**<br/>
 Justin C. Burton, Aaron Sharpe, Roeland C. A. van der Veen, Andrés Franco, and Sidney R. Nagel<br/>
 [arXiv:1202.2157](https://arxiv.org/abs/1202.2157) || [Phys. Rev. Lett. 109, 074301 (2012)](https://link.aps.org/doi/10.1103/PhysRevLett.109.074301)<br/>
-</div>
