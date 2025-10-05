@@ -5,7 +5,7 @@ nav:
   tooltip: Email, address, and location
 ---
 
-# {% include icon.html icon="fa-regular fa-envelope" %}Contact
+# Contact
 
 # Opportunities
 The Sharpe Lab is currently seeking motivated undergraduates, graduate students, and postdocs.
