@@ -3,7 +3,7 @@
 
 # Welcome to the Sharpe Lab!
 
-Hello and welcome. The website is still underconstruction, but a few of the sections are complete.
+Hello and welcome. The website is still under construction, but a few of the sections are complete.
 
 {% include section.html %}
 
