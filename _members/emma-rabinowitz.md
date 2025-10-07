@@ -1,9 +1,8 @@
 ---
 name: Emma Rabinowitz
+image: images/groupmembers/emma.png
 title: PhD Student
-image: 
 role: phd
 group: 
 links:
-  github: john-doe
 ---
