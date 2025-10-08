@@ -5,4 +5,5 @@ title: PhD Student
 role: phd
 group: 
 links:
+  email: erabin03@stanford.edu
 ---
