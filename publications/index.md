@@ -13,7 +13,7 @@ nav:
 Jesse C. Hoke, Yifan Li, Yuwen Hu, Julian May-Mann, Kenji Watanabe, Takashi Taniguchi, Trithep Devakul, Aaron Sharpe, Benjamin E. Feldman<br/>
 [arXiv:2509.07977](https://arxiv.org/abs/2509.07977)<br/>
 
-**Topological bands and correlated states in helical trilayer graphene**<br/>
+**Magic continuum in multi-moiré twisted trilayer graphene**<br/>
 Li-Qiao Xia\*, Aviram Uri\*, Jiaoji Yan\*, Aaron Sharpe\*, Filippo Gaggioli, Nicole S. Ticea, Julian May-Mann, Kenji Watanabe, Takashi Taniguchi, Liang Fu, Trithep Devakul, Jurgen H. Smet, and Pablo Jarillo-Herrero<br/>
 [arXiv:2509.03583](https://arxiv.org/abs/2509.03583)<br/>
 
