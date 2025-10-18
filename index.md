@@ -17,8 +17,6 @@ Hello and welcome. The website is still under construction, but a few of the sec
 
 ## Highlights
 
-{% include section.html %}
-
 {%- if site.posts and site.posts.size > 0 -%}
   {%- for post in site.posts limit:3 -%}
     <div class="post-highlight">
