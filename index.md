@@ -29,9 +29,6 @@ Hello and welcome. The website is still under construction, but a few of the sec
         {{ post.content }}
       </div>
     </div>
-    {%- unless forloop.last -%}
-      <hr class="post-separator">
-    {%- endunless -%}
   {%- endfor -%}
 {%- endif -%}
 
