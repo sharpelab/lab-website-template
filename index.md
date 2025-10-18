@@ -17,16 +17,16 @@ Hello and welcome. The website is still under construction, but a few of the sec
 
 ## Highlights
 
-{% assign reversed_posts = site.posts | reverse %}
-
-{% for post in reversed_posts limit: 3 %}
-  {% capture text %}
-    {{ post.content }}
-  {% endcapture %}
-
-  {%
-    include feature.html
-    title=post.title
-    text=text
-  %}
-{% endfor %}
+{%- if site.posts.size > 0 -%}
+  <ul class="post-list">
+    {%- assign reversed_posts = site.posts | reverse -%}
+    {%- for post in reversed_posts limit: 3 -%}
+    <li class="post-item">
+      <h3>{{ post.title | escape }}</h3>
+      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+      <span class="post-meta">{{ post.date | date: date_format }}</span>
+      {{ post.content }}
+    </li>
+    {%- endfor -%}
+  </ul>
+{%- endif -%}
