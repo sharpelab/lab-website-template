@@ -21,24 +21,12 @@ Hello and welcome. The website is still under construction, but a few of the sec
 
 {% for post in reversed_posts limit: 3 %}
   {% capture text %}
-    {% include post-excerpt.html post=post %}
-    
-    {%
-      include button.html
-      link=post.url
-      text="Read more"
-      icon="fa-solid fa-arrow-right"
-      flip=true
-      style="bare"
-    %}
+    {{ post.content }}
   {% endcapture %}
 
   {%
     include feature.html
-    image=post.image
-    link=post.url
     title=post.title
     text=text
-    flip=forloop.index0
   %}
 {% endfor %}
