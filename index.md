@@ -18,15 +18,14 @@ Hello and welcome. The website is still under construction, but a few of the sec
 ## Highlights
 
 {%- if site.posts and site.posts.size > 0 -%}
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-    {%- for post in site.posts limit:3 -%}
-      {%
-        include card.html
-        image=post.image
-        title=post.title
-        subtitle=post.date
-        description=post.content
-      %}
-    {%- endfor -%}
-  </div>
+  {%- for post in site.posts limit:3 -%}
+    {%
+      include card.html
+      image=post.image
+      title=post.title
+      subtitle=post.date
+      description=post.content
+      style="full-width"
+    %}
+  {%- endfor -%}
 {%- endif -%}
