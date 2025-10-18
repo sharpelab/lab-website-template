@@ -17,20 +17,30 @@ Hello and welcome. The website is still under construction, but a few of the sec
 
 ## Highlights
 
-{%- if site.posts.size > 0 -%}
-  {%- assign reversed_posts = site.posts | reverse -%}
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-    {%- for post in reversed_posts limit: 3 -%}
-      <div class="card">
+{%- if site.posts and site.posts.size > 0 -%}
+  <div class="cards">
+    {%- for post in site.posts limit:3 -%}
+      <article class="card">
+        {%- if post.image -%}
+          <a class="card-media" href="{{ post.url | relative_url }}">
+            <img src="{{ post.image | relative_url }}" alt="{{ post.title | escape }}">
+          </a>
+        {%- endif -%}
+
         <div class="card-text">
-          <h3 class="card-title">{{ post.title | escape }}</h3>
+          <h3 class="card-title">
+            <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+          </h3>
+
           {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
           <p class="card-subtitle">{{ post.date | date: date_format }}</p>
-          <div class="post-content">
-            {{ post.content }}
-          </div>
+
+          {%- assign blurb = post.excerpt | strip_html | strip_newlines | truncate: 180 -%}
+          <p class="card-excerpt">{{ blurb }}</p>
+
+          <a class="card-cta" href="{{ post.url | relative_url }}">Read more →</a>
         </div>
-      </div>
+      </article>
     {%- endfor -%}
   </div>
 {%- endif -%}
