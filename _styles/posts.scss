@@ -1,0 +1,52 @@
+---
+---
+
+/* Post highlights styling */
+.post-highlight {
+  width: 100%;
+  margin: 30px 0;
+  padding: 20px;
+  background: var(--background);
+  border: 1px solid var(--light-gray);
+  border-radius: var(--rounded);
+  box-shadow: var(--shadow);
+}
+
+.post-highlight h3 {
+  margin: 0 0 10px 0;
+  color: var(--text);
+  font-family: var(--heading);
+  font-weight: var(--semi-bold);
+}
+
+.post-highlight .post-date {
+  margin: 0 0 15px 0;
+  color: var(--gray);
+  font-style: italic;
+  font-size: 0.9rem;
+}
+
+.post-highlight .post-content {
+  color: var(--text);
+  line-height: 1.6;
+}
+
+.post-highlight .post-content p {
+  margin: 15px 0;
+}
+
+.post-highlight .post-content h1,
+.post-highlight .post-content h2,
+.post-highlight .post-content h3,
+.post-highlight .post-content h4,
+.post-highlight .post-content h5,
+.post-highlight .post-content h6 {
+  color: var(--text);
+  margin: 20px 0 10px 0;
+}
+
+.post-separator {
+  border: none;
+  border-top: 1px solid var(--light-gray);
+  margin: 40px 0;
+}
