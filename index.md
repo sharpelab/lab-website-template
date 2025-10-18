@@ -22,23 +22,20 @@ Hello and welcome. The website is still under construction, but a few of the sec
     {%- for post in site.posts limit:3 -%}
       <article class="card">
         {%- if post.image -%}
-          <a class="card-media" href="{{ post.url | relative_url }}">
+          <div class="card-media">
             <img src="{{ post.image | relative_url }}" alt="{{ post.title | escape }}">
-          </a>
+          </div>
         {%- endif -%}
 
         <div class="card-text">
-          <h3 class="card-title">
-            <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-          </h3>
+          <h3 class="card-title">{{ post.title | escape }}</h3>
 
           {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
           <p class="card-subtitle">{{ post.date | date: date_format }}</p>
 
-          {%- assign blurb = post.excerpt | strip_html | strip_newlines | truncate: 180 -%}
-          <p class="card-excerpt">{{ blurb }}</p>
-
-          <a class="card-cta" href="{{ post.url | relative_url }}">Read more →</a>
+          <div class="card-excerpt">
+            {{ post.content }}
+          </div>
         </div>
       </article>
     {%- endfor -%}
