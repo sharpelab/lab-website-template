@@ -30,6 +30,16 @@ Hello and welcome. The website is still under construction, but a few of the sec
       </div>
     </div>
   {%- endfor -%}
+  
+  <div style="text-align: center; margin-top: 30px;">
+    {%
+      include button.html
+      link="blog"
+      text="View All Posts"
+      icon="fa-solid fa-arrow-right"
+      style="filled"
+    %}
+  </div>
 {%- endif -%}
 
 {% include section.html %}
