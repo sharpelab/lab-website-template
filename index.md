@@ -19,13 +19,16 @@ Hello and welcome. The website is still under construction, but a few of the sec
 
 {%- if site.posts and site.posts.size > 0 -%}
   {%- for post in site.posts limit:3 -%}
-    {%
-      include card.html
-      image=post.image
-      title=post.title
-      subtitle=post.date
-      description=post.content
-      style="full-width"
-    %}
+    <div class="post-highlight">
+      <h3>{{ post.title | escape }}</h3>
+      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+      <p class="post-date">{{ post.date | date: date_format }}</p>
+      <div class="post-content">
+        {{ post.content }}
+      </div>
+    </div>
+    {%- unless forloop.last -%}
+      <hr class="post-separator">
+    {%- endunless -%}
   {%- endfor -%}
 {%- endif -%}
