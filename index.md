@@ -5,6 +5,14 @@
 
 Hello and welcome. The website is still under construction, but a few of the sections are complete.
 
+{%
+  include button.html
+  link="contact"
+  text="Join Us"
+  icon="fa-solid fa-users"
+  style="filled"
+%}
+
 {% include section.html %}
 
 ## Highlights
