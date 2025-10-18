@@ -1,68 +1,52 @@
 ---
 ---
 
-.cards {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
-  gap: 20px;
-  align-items: stretch;
-}
-
 .card {
-  display: flex;
+  display: inline-flex;
+  justify-content: stretch;
+  align-items: center;
   flex-direction: column;
-  border: 1px solid var(--light-gray);
-  border-radius: 16px;
-  overflow: hidden;
+  width: 350px;
+  max-width: calc(100% - 20px - 20px);
+  margin: 20px;
   background: var(--background);
+  border-radius: var(--rounded);
+  overflow: hidden;
   box-shadow: var(--shadow);
+  vertical-align: top;
 }
 
-.card-media img { 
-  width: 100%; 
-  height: 160px; 
-  object-fit: cover; 
-  display: block; 
-}
-
-.card-text { 
-  padding: 16px; 
-}
-
-.card-title { 
-  margin: 0 0 6px; 
-  font-size: 1.05rem; 
-  line-height: 1.3;
-  color: var(--text);
-}
-
-.card-title a { 
-  text-decoration: none;
-  color: var(--text);
-}
-
-.card-subtitle { 
-  margin: 0 0 10px; 
-  color: var(--gray); 
-  font-size: .9rem; 
-}
-
-.card-excerpt { 
-  margin: 0 0 12px; 
-  color: var(--text); 
-}
-
-.card-cta { 
-  font-weight: 600; 
-  text-decoration: none;
-  color: var(--primary);
-}
-
-.card-cta:hover { 
-  text-decoration: underline; 
-}
-
-/* Legacy card styles for backward compatibility */
 .card[data-style="small"] {
   width: 250px;
+}
+
+.card-image img {
+  aspect-ratio: 3 / 2;
+  object-fit: cover;
+  width: 100%;
+  // box-shadow: var(--shadow);
+}
+
+.card-text {
+  display: inline-flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-direction: column;
+  gap: 20px;
+  max-width: 100%;
+  padding: 20px;
+}
+
+.card-text > * {
+  margin: 0 !important;
+}
+
+.card-title {
+  font-family: var(--heading);
+  font-weight: var(--semi-bold);
+}
+
+.card-subtitle {
+  margin-top: -10px !important;
+  font-style: italic;
 }

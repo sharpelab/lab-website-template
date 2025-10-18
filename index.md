@@ -18,26 +18,15 @@ Hello and welcome. The website is still under construction, but a few of the sec
 ## Highlights
 
 {%- if site.posts and site.posts.size > 0 -%}
-  <div class="cards">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
     {%- for post in site.posts limit:3 -%}
-      <article class="card">
-        {%- if post.image -%}
-          <div class="card-media">
-            <img src="{{ post.image | relative_url }}" alt="{{ post.title | escape }}">
-          </div>
-        {%- endif -%}
-
-        <div class="card-text">
-          <h3 class="card-title">{{ post.title | escape }}</h3>
-
-          {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-          <p class="card-subtitle">{{ post.date | date: date_format }}</p>
-
-          <div class="card-excerpt">
-            {{ post.content }}
-          </div>
-        </div>
-      </article>
+      {%
+        include card.html
+        image=post.image
+        title=post.title
+        subtitle=post.date
+        description=post.content
+      %}
     {%- endfor -%}
   </div>
 {%- endif -%}
