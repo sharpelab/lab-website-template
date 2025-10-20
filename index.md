@@ -15,7 +15,7 @@ Hello and welcome. The website is still under construction, but a few of the sec
 
 {% include section.html %}
 
-## Highlights (currently AI generated non-sense for testing)
+## Highlights (currently AI generated nonsense for testing)
 
 <!-- posts start -->
 
