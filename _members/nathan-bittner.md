@@ -1,6 +1,6 @@
 ---
 name: Nathan Bittner
-image: 
+image: images/groupmembers/nathan.jpg
 title: Software Engineer
 role: programmer
 group: 
