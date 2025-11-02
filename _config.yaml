@@ -6,6 +6,9 @@ header: images/strain.jpg
 # footer: images/background.jpg
 proofer: false
 
+# hide title text in navigation (since logo.svg contains "Sharplab")
+show-title: false
+
 # site social media and other links
 links:
   email: aaron.sharpe@stanford.edu
