@@ -15,4 +15,5 @@ nav:
 {% include list.html data="members" component="portrait" filter="role == 'programmer'" %}
 {% include list.html data="members" component="portrait" filter="role == 'undergrad'" %}
 
-
+# Alumni
+{% include list.html data="members" component="portrait" filter="role == 'alumni'" %}
